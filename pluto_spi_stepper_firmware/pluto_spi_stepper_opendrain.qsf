@@ -41,7 +41,7 @@ set_global_assignment -name DEVICE "EP1K10TC100-3"
 set_global_assignment -name TOP_LEVEL_ENTITY pluto_spi_stepper_opendrain
 set_global_assignment -name ORIGINAL_QUARTUS_VERSION "9.0 SP2"
 set_global_assignment -name PROJECT_CREATION_TIME_DATE "20:08:56  DECEMBER 05, 2015"
-set_global_assignment -name LAST_QUARTUS_VERSION "9.0 SP2"
+set_global_assignment -name LAST_QUARTUS_VERSION "13.0 SP1"
 set_global_assignment -name VERILOG_FILE wdt.v
 set_global_assignment -name VERILOG_FILE stepgen.v
 set_global_assignment -name VERILOG_FILE "spi_main-opendrain.v"
